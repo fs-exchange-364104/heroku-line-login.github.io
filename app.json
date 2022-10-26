@@ -1,7 +1,7 @@
 {
   "name": "Line loggin on Heroku: Node.js",
   "description": "Clean data for getting start line login with Nodejs",
-  "repository": "https://github.com/iklogic/heroku-line-login",
+  "repository": "https://github.com/fs-exchange-364104/heroku-line-login.github.io",
   "logo": "https://user-images.githubusercontent.com/14157896/34905401-73ed2260-f88a-11e7-83b3-887997e13f53.png",
   "keywords": ["node", "express", "heroku", "line"],
   "image": "heroku/nodejs"
